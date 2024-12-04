@@ -1,1 +1,38 @@
-IyDwn6fwn4+8IFByb3RvdHlwZSBNQ1AgKE1vZGVsIENvbnRleHQgUHJvdG9jb2wpCgojIyBPdmVydmlldwoKVGhlIE1vZGVsIENvbnRleHQgUHJvdG9jb2wgKE1DUCkgaXMgYW4gaW5ub3ZhdGl2ZSBvcGVuLXNvdXJjZSBmcmFtZXdvcmsgZGVzaWduZWQgdG8gcmV2b2x1dGlvbml6ZSBob3cgQUkgbW9kZWxzIG1haW50YWluIGFuZCBtYW5hZ2UgY29udGV4dHVhbCBpbmZvcm1hdGlvbiBkdXJpbmcgY29udmVyc2F0aW9ucy4gQnkgaW1wbGVtZW50aW5nIGEgc3RhbmRhcmRpemVkIHByb3RvY29sIGZvciBjb250ZXh0IGhhbmRsaW5nLCBNQ1AgZW5hYmxlcyBtb3JlIGNvbnNpc3RlbnQsIGFjY3VyYXRlLCBhbmQgcGVyc29uYWxpemVkIEFJIGludGVyYWN0aW9ucy4KCiMjIPCfkqsgS2V5IEZlYXR1cmVzCgotICoqRHluYW1pYyBDb250ZXh0IE1hbmFnZW1lbnQqKjogUmVhbC10aW1lIHVwZGF0aW5nIGFuZCByZXRyaWV2YWwgb2YgY29udmVyc2F0aW9uIGNvbnRleHQKLSAqKk1lbW9yeSBQZXJzaXN0ZW5jZSoqOiBMb25nLXRlcm0gc3RvcmFnZSBvZiByZWxldmFudCB1c2VyIGluZm9ybWF0aW9uIGFuZCBwcmVmZXJlbmNlcwotICoqUmVsYXRpb25zaGlwIE1hcHBpbmcqKjogQWR2YW5jZWQgZW50aXR5IHJlbGF0aW9uc2hpcCB0cmFja2luZyBhbmQgZ3JhcGgtYmFzZWQgY29udGV4dCByZXByZXNlbnRhdGlvbgotICoqUHJpdmFjeS1GaXJzdCBEZXNpZ24qKjogQnVpbHQtaW4gcHJpdmFjeSBjb250cm9scyBhbmQgZGF0YSBtYW5hZ2VtZW50IGZlYXR1cmVzCi0gKipTY2FsYWJsZSBBcmNoaXRlY3R1cmUqKjogRGVzaWduZWQgdG8gaGFuZGxlIG1pbGxpb25zIG9mIGNvbmN1cnJlbnQgY29udmVyc2F0aW9ucwoKIyMg8J+MkCBHZXR0aW5nIFN0YXJ0ZWQKCiMjIyBQcmVyZXF1aXNpdGVzCgotIE5vZGUuanMgPj0gMTguMC4wCi0gUG9zdGdyZVNRTCA+PSAxNC4wCi0gUmVkaXMgPj0gNi4wCgojIyMgSW5zdGFsbGF0aW9uCgpgYGBiYXNoCm5wbSBpbnN0YWxsIEBtY3AvY29yZQpucG0gaW5zdGFsbCBAbWNwL3NlcnZlcgpucG0gaW5zdGFsbCBAbWNwL2NsaWVudApgYGAKCiMjIyBRdWljayBTdGFydAoKYGBgamF2YXNjcmlwdApjb25zdCB7IE1DUFNLCNZXJ9IH0gPSByZXF1aXJlKCdAbWNwL3NlcnZlcicpOwpjb25zdCB7IENvbnRleHRNYW5hZ2VyIH0gPSByZXF1aXJlKCdAbWNwL2NvcmUnKTsKCi8vIEluaXRpYWxpemUgdGhlIE1DUCBzZXJ2ZXIKY29uc3Qgc2VydmVyID0gbmV3IE1DUFNlcnZlcih7CiAgcG9ydDogMzAwMCwKICBzdG9yYWdlOiB7CiAgICB0eXBlOiAncG9zdGdyZXNxbCcsCiAgICB1cmw6IHByb2Nlc3MuZW52LkRBVEFCQVNFX1VSTAogIH0KfSk7Cgov…=
+🧠 # Prototype MCP (Model Context Protocol)
+
+[Previous README content...]
+
+---
+
+## 🔥 A Poetic Tribute to Fireship's Git Course
+
+```
+In the realm of code where versions dance,
+Fireship lights the way, gives us a chance
+To master Git with speed and style,
+Making complex concepts worth our while.
+
+"git init" starts our journey bright,
+Through branches, merges, day and night.
+Commits like snapshots in the flow,
+Each change tracked as we learn and grow.
+
+Pull requests and forks galore,
+Collaboration at its core.
+Merge conflicts? Don't you fret!
+Fireship's got techniques you won't forget.
+
+With humor sharp and pace so quick,
+Complex concepts finally stick.
+From local repos to GitHub's height,
+Everything's explained just right.
+
+So here's to Fireship's blazing trail,
+Making Git skills prevail.
+In ten minutes or even less,
+Taking us from stress to success!
+```
+
+---
+
+Made with ❤️ by the MCP Team
